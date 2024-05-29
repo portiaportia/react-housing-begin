@@ -6,22 +6,11 @@ import "../styles/nav.css";
 import "../styles/styles.css";
 
 const Layout = () => {
-  const [menuOpen, setMenuOpen] = useState(false);
-
-  const toggleMenu = () => {
-    setMenuOpen(!menuOpen);
-  };
-
   return (
     <div id="content">
       <Header />
       <nav id="main-nav">
-        <div id="toggle" onClick={toggleMenu}>
-          <div></div>
-          <div></div>
-          <div></div>
-        </div>
-        <ul id="nav-items" className={menuOpen ? "" : "hide-small"}>
+        <ul id="nav-items">
           <li>
             <Link to="/">Home</Link>
           </li>
