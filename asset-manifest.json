@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-housing-begin/static/css/main.28b4f0f1.css",
+    "main.js": "/react-housing-begin/static/js/main.3203dcd2.js",
+    "static/media/strawberry.jpg": "/react-housing-begin/static/media/strawberry.bcaffb47f3a4367f8481.jpg",
+    "static/media/grapes.jpg": "/react-housing-begin/static/media/grapes.9b09625e381512e1074d.jpg",
+    "static/media/apple.jpg": "/react-housing-begin/static/media/apple.f889d9a698784065709e.jpg",
+    "static/media/keys.jpg": "/react-housing-begin/static/media/keys.b8f45889fda4ef371e2a.jpg",
+    "static/media/mango.jpg": "/react-housing-begin/static/media/mango.8c387f8db9ef4b2524bc.jpg",
+    "static/media/cherry.jpeg": "/react-housing-begin/static/media/cherry.d7118a0d90bd3074d87d.jpeg",
+    "index.html": "/react-housing-begin/index.html",
+    "main.28b4f0f1.css.map": "/react-housing-begin/static/css/main.28b4f0f1.css.map",
+    "main.3203dcd2.js.map": "/react-housing-begin/static/js/main.3203dcd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b4f0f1.css",
+    "static/js/main.3203dcd2.js"
+  ]
+}
